@@ -1,3 +1,4 @@
 let color = "Green";
-console.log(color);
+let username = "Nooruddin";
+console.log(color + ' ' + username);
 export {};
